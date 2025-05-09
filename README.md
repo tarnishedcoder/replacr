@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/🗃️-File%20Transfer%20Utility-blue" alt="File Transfer Utility" width="300"/>
+
 # File Transfer Utility
 
 A simple Python utility with a Tkinter GUI for transferring files from multiple source folders to a single destination folder.
