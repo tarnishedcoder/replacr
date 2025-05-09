@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/🗃️-re%20pla%20Ucr" alt="Replacr" width="100"/>
+<img src="https://img.shields.io/badge/🗃️-re%20pla%20Ucr" alt="Replacr" width="150"/>
 
 # File Transfer Utility
 
