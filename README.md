@@ -26,7 +26,7 @@ pip install tkfilebrowser
 
 1. Run the application:
    ```bash
-   python file_transfer.py
+   python replace.py
    ```
 2. Select source folders containing files you want to transfer
 3. Choose a destination folder
